@@ -16,6 +16,7 @@ public interface BinaryOperation extends Operation {
 	 * @param arg1 first parameter
 	 * @param arg2 second parameter
 	 * @return result of binary operation 
+	 * und noch ein Kommentar
 	 */ 
 	public float perform(float arg1, float arg2);
 }
